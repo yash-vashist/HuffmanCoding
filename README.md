@@ -24,7 +24,7 @@ Developed a data compression tool using the Huffman coding algorithm, capable of
 1. Clone the repository: 
 
 ```bash
-  git clone https://github.com/parasdhoon/Compression-Tool-using-Huffman-Coding.git
+  git clone https://github.com/yash-vashist/HuffmanCoding
   cd huffman-coding-compression-tool
 
 ```
