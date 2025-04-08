@@ -44,7 +44,3 @@ Developed a data compression tool using the Huffman coding algorithm, capable of
 * input.txt: Sample input text file for testing.
 * compressed.huff: Sample compressed output file.
 * decompressed.txt: Sample decompressed output file.
-## Contributing
-Contributions are welcome! Please fork the repository and submit a pull request with your changes.
-## Contact
-For any questions or feedback, feel free to reach out at parasdhoon04@gmail.com.
